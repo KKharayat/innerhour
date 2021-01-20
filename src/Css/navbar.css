@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container img {
+  max-height: 3em;
+  max-width: none;
+}
+.btns .btns-sign,
+.btns .btns-login {
+  border-radius: 20px;
+  padding-top: 0.30952381em;
+  padding-bottom: 0.30952381em;
+  padding-right: 1.85714286em;
+  padding-left: 1.85714286em;
+  letter-spacing: 0.5px;
+}
+.btns .btns-sign {
+  margin-left: 2em;
+  outline: none;
+  border: 1px solid #aca6a6;
+  background: transparent;
+}
+.btns .btns-login {
+  background: #4a90e2;
+  margin-left: 0.5em;
+}
+nav a {
+  font-size: 0.857142857142857em;
+  line-height: 2.166666666666667em;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
